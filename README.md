@@ -1,7 +1,7 @@
 # AI Models and Modeling Tools for BioJazz Lab
 
 **Maintained by:** BioJazz Lab, Department of Biology, Baylor University  
-**Last updated:** 2026-11-18  
+**Last updated:** 2026-11-23  
 **Purpose:** Track AI/ML models relevant to BioJazz Lab research — phage-host interactions, genome-scale metabolic modeling, PTM-driven biomolecular assembly, and multi-scale eco-evolutionary dynamics.
 
 ---
@@ -17,6 +17,9 @@
 7. [Multi-omics & Proteomics](#multi-omics--proteomics)
 8. [Virtual Cell & Cell Simulation](#virtual-cell--cell-simulation)
 9. [Computational Tools & Algorithms](#computational-tools--algorithms)
+
+**Topic folders:**
+- [Bigraph/](Bigraph/README.md): Milner bigraph (BRS) and hypergraph tools: BigraphER, Bigraph Framework, Vivarium process-bigraph, hypergraph analysis and learning
 
 ---
 
